@@ -2,7 +2,7 @@
 
 I'm a passionate software developer, music producer, and poet who loves exploring the intersections of technology and creativity. Currently, I'm finishing up CS50 and taking a full-stack IBM course after.
 
-## 🌱 About Me
+## 🌻 About Me
 - 🔭 I’m working on writing a game, **The Last Forest**, that invites players to navigate a world impacted by industrialization, guided by nature itself.
 - 🎶 In addition to coding, I produce music and write poetry, focusing on themes of identity and connection in our digital world.
 - 📚 I'm always eager to learn new technologies and improve my skills. Right now, I'm diving into Java.
