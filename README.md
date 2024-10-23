@@ -11,7 +11,7 @@ I'm a passionate software developer, music producer, and poet who loves explorin
 - **Languages**: JavaScript, Python, C, SQL, Java
 - **Tools**: Git, Fl Studio
 
-## 🎨 Creative Side
+## 🎨 Creative Projects
 - Check out my music production projects [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html) and explore my poetry portfolio [here](https://axpeed.github.io/Ali-s_Creative_Corner/poetry.html).
 - I'm passionate about storytelling through different mediums, and I'm always looking for new ways to express my ideas.
 
