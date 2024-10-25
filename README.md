@@ -4,12 +4,12 @@ I'm a passionate software developer, music producer, and poet who loves explorin
 
 ## 🌻 About Me
 - 🔭 I’m working on writing a game, **The Last Forest**, that invites players to navigate a world impacted by industrialization, guided by nature itself.
-- 🎶 In addition to coding, I produce music and write poetry, focusing on themes of identity and connection in our digital world.
-- 📚 I'm always eager to learn new technologies and improve my skills. Right now, I'm diving into Java.
+- 🎶 In addition to coding, I produce music and play the piano, focusing on classical pieces and Chopin.
+- 📚 I'm always eager to learn new technologies and improve my skills. Right now, I'm diving into machine learning.
 
 ## 🛠 Skills
 - **Languages**: JavaScript, Python, C, SQL, Java
-- **Tools**: Git, Fl Studio
+- **Tools**: Git, Fl Studio, Flask
 
 ## 🎨 Creative Projects
 - Check out my music production projects [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html) and explore my poetry portfolio [here](https://axpeed.github.io/Ali-s_Creative_Corner/poetry.html).
