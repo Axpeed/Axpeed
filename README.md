@@ -1,6 +1,6 @@
 # Hi there! I'm Ali 👋
 
-I'm a passionate software developer, music producer, and poet who loves exploring the intersections of technology and creativity. Currently, I'm finishing up CS50 and taking a full-stack IBM course after.
+I'm a passionate software developer, music producer, and poet who loves exploring the intersections of technology and creativity. Currently, I'm taking a machine learning course, with the hopes of doing a data science certification afterwards.
 
 ## 🌻 About Me
 - 🔭 I’m working on writing a game, **The Last Forest**, that invites players to navigate a world impacted by industrialization, guided by nature itself.
@@ -12,7 +12,7 @@ I'm a passionate software developer, music producer, and poet who loves explorin
 - **Tools**: Git, Fl Studio, Flask
 
 ## 🎨 Creative Projects
-- Check out my music production projects [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html) and explore my poetry portfolio [here](https://axpeed.github.io/Ali-s_Creative_Corner/poetry.html).
+- Check out my music production projects [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html)
 - I'm passionate about storytelling through different mediums, and I'm always looking for new ways to express my ideas.
 
 ## 📫 Let's Connect
