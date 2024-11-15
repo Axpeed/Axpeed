@@ -1,36 +1,33 @@
 # Hi there! I'm Ali 👋
 
-I'm a passionate software developer, music producer, and pianist who loves exploring the intersections of technology and creativity. Currently, I'm taking a machine learning course, with the hopes of doing a data science certification afterwards.
+I'm a software developer passionate about merging technology with creativity. Whether it’s developing tools that enhance web browsing, building interactive experiences, or producing music, I enjoy using my technical and creative skills to solve problems and tell stories. Currently, I’m studying **Machine Learning** and aiming to pursue a **Data Science certification** to expand my skill set.
 
-## 🌻 About Me
-- 🔭 I’m working on writing a game, **The Last Forest**, that invites players to navigate a world impacted by industrialization, guided by nature itself.
-- 🎶 In addition to coding, I produce music and play the piano, focusing on classical pieces and Chopin.
-- 📚 I'm always eager to learn new technologies and improve my skills. Right now, I'm diving into machine learning.
+## 🌱 About Me
+- **Currently Learning**: Machine Learning with Andrew Ng
+- **Passionate About**: Using code to create interactive experiences, building meaningful projects, and exploring the intersections of art and technology
+- **Creative Outlet**: Music production and piano, where I focus on original works and classical compositions
 
-## 🛠 Skills
+## 🛠 Technical Skills
 - **Languages**: JavaScript, Python, C, SQL, Java
-- **Tools**: Git, Fl Studio, Flask
+- **Libraries & Frameworks**: React.js, Next.js, Bootstrap, Flask
+- **Tools**: Git, Jupyter Notebook, p5.js, FL Studio
 
-## 🎨 Creative Projects
-- Check out my music production projects [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html)
-- I'm passionate about storytelling through different mediums, and I'm always looking for new ways to express my ideas.
+## 🌐 Portfolio of Projects
+Here are some of my recent projects, showcasing my skills and interests in web development and tool creation:
+
+### [Personal Website](https://axpeed.github.io/Ali-s_Creative_Corner/)
+- **Technologies**: HTML, CSS, JavaScript, Bootstrap
+- **Description**: A personal website that includes my creative projects and an implementation of **Conway’s Game of Life** using **p5.js**, alongside other interactive elements to showcase my web development skills.
+
+### [Chrome Extension: Tab Searcher](https://github.com/Axpeed/Tab_Searcher)
+- **Technologies**: JavaScript
+- **Description**: A custom-built Chrome extension designed to help users search and manage their open tabs quickly and efficiently.
+
+For a full list of my projects, please visit my [GitHub Repositories](https://github.com/axpeed?tab=repositories).
+
+## 🎶 Creative Projects
+When I’m not coding, I’m often composing or playing the piano. You can explore some of my music production work [here](https://axpeed.github.io/Ali-s_Creative_Corner/music.html).
+I am also currently in the process of writing a video game which will be built using GameMaker 
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ali-mamalachi/)
-
-Feel free to reach out if you'd like to collaborate or chat about creative projects!
-
-<!--
-**Axpeed/Axpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
