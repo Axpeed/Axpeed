@@ -1,6 +1,6 @@
 # Hi there! I'm Ali 👋
 
-I'm a passionate software developer, music producer, and poet who loves exploring the intersections of technology and creativity. Currently, I'm taking a machine learning course, with the hopes of doing a data science certification afterwards.
+I'm a passionate software developer, music producer, and pianist who loves exploring the intersections of technology and creativity. Currently, I'm taking a machine learning course, with the hopes of doing a data science certification afterwards.
 
 ## 🌻 About Me
 - 🔭 I’m working on writing a game, **The Last Forest**, that invites players to navigate a world impacted by industrialization, guided by nature itself.
